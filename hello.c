@@ -1,4 +1,7 @@
 #include<stdio.h>
-int main(){
-      printf("h ello world");
-      }
+int main()
+{
+	printf("hai");
+	return 0;
+}
+
